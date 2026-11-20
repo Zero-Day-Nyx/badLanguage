@@ -1,32 +1,9 @@
-# Nicks Coding World
+# Bad Language
 
-This is my own coding portfolio that contains projects and creations I have done or collaborated on.  It also contains areas for contacting and a bit about myself.
+This is the webpage that serves as my final project for my engl1010 class at Salt Lake Community College.  This webpage focuses on the use of "bad" language and the overall language choices of the automotive dealership community.
 
 ### link to the deployed website
-- https://Zero-Day-Nyx.github.io/NicksCodingWorld/
-
-## Page Contents
-Landing Area  
-![screenshot](https://github.com/Modern-Viking/NicksCodingWorld/blob/master/assets/images/readmeScreenshots/landingArea.jpg?raw=true)
-
-About Me Area  
-![screenshot](https://github.com/Modern-Viking/NicksCodingWorld/blob/master/assets/images/readmeScreenshots/aboutMe.jpg?raw=true)
-
-Projects and Creations  
-![screenshot](https://github.com/Modern-Viking/NicksCodingWorld/blob/master/assets/images/readmeScreenshots/creationsArea.jpg?raw=true)
-
-Contact Me  
-![screenshot](https://github.com/Modern-Viking/NicksCodingWorld/blob/master/assets/images/readmeScreenshots/contactMe.jpg?raw=true)
-
-## Future Updates
-* Additional creations added
-
-## Credits
-
-A big shout out to those who made this website possible. I appreciate all of your help to set this up!
-* https://github.com/jbejar
-* https://github.com/jrheap
-* https://github.com/Nidant
+- https://Zero-Day-Nyx.github.io/badLanguage/
 
 ## License
 
