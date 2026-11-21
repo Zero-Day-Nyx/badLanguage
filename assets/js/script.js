@@ -8,8 +8,8 @@ function draw() {
 }
 var c = document.querySelector("canvas"), ctx = c.getContext("2d");
 c.height = window.innerHeight, c.width = window.innerWidth;
-const j = ["shit","fuck"];
-for (var font_size = 10, columns = c.width / font_size, drops = [], x = 0; x < columns; x++)drops[x] = 1; setInterval(draw, 33);
+const j = ["shit","fuck","ass","damn"];
+for (var font_size = 8, columns = c.width / font_size, drops = [], x = 0; x < columns; x++)drops[x] = 1; setInterval(draw, 33);
 
 // // Matrix Rain
 // function rain() {
